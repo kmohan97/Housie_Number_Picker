@@ -1,0 +1,12 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "symbols" : [
+    {
+      "filename" : "wrench.and.screwdriver1.svg",
+      "idiom" : "universal"
+    }
+  ]
+}
